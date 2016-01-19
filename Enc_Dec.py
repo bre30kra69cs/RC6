@@ -89,7 +89,7 @@ print("enc", enc, len(enc))
 dec = decrypt(enc, test)
 print("dec", dec, len(dec))
 """
-
+"""
 co = 1
 while True:
     d = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"]
@@ -112,7 +112,7 @@ while True:
         print("Suc-----<")
         print(co, inpput, key, enc, dec)
         co += 1
-
+"""
 """
 inpp = "1DAA113E8E5BE4F0050AA8ECC1D8BF14"
 key = "85BE53ECE50ABA11C3F3AAFD5CFA6CB4"
